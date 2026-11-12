@@ -32,6 +32,18 @@
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersrodrig&theme=transparent" alt="Profile details summary" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andersrodrig&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
+</div>
+
+---
+
 ## Current Focus
 
 - Linux, BSD, and system internals
